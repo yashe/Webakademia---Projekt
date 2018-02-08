@@ -1,0 +1,211 @@
+[
+    {
+        "id": 1,
+        "name" : "Dania Główne",
+        "icon" : "url(img/icon_1.png)",
+        "background" : "url(img/menu_bg_1.jpg)",
+        "value": [
+            {
+                "description": "Filet z kurczaka w panierce z pieczarkami, frytki, buraczki",
+                "price": "23.50"
+            },
+            {
+                "description": "Kotlet drobiowy z serem, ziemniaki pure, sałatka pekińska",
+                "price": "27.00"
+            },
+            {
+                "description": "Kotlet schabowy w panierce z migdałów, ziemniaki, zestaw surówek",
+                "price": "32.90"
+            },
+            {
+                "description": "Grilowany sandacz z sałatką wiosenną",
+                "price": "26.50"
+            },
+            {
+                "description": "Wątróbka drobiowa z jabłkiem i cebulką, ziemniaki, surówka z marchewki",
+                "price": "16.00"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name" : "Dania Jarskie",
+        "icon" : "url(img/icon_2.png)",
+        "background" : "url(img/menu_bg_2.jpg)",
+        "value": [
+            {
+                "description" : "Pierogi ruskie",
+                "price" : "10.00"
+            },
+            {
+                "description" : "Pierogi z kapustą kiszoną i pieczarkami",
+                "price" : "11.00"
+            },
+            {
+                "description" : "Pierogi ze szpinakiem i serem feta",
+                "price" : "9.50"
+            },
+            {
+                "description" : "Placki ziemniaczane",
+                "price" : "11.00"
+            },
+            {
+                "description" : "Kluski śląskie w sosie szpinakowym",
+                "price" : "9.00"
+            },
+            {
+                "description" : "Makaron z pesto z bazyli, suszone pomidory, ser feta",
+                "price" : "12.00"
+            },
+            {
+                "description" : "Spagetti napoli z parmezanem i bazylią",
+                "price" : "10.00"
+            },
+            {
+                "description" : "Naleśnik z owocami sezonowymi i polewą czekoladową",
+                "price" : "6.00"
+            },
+            {
+                "description" : "Gofry z owocami, dżemem i bitą śmietaną",
+                "price" : "8.00"
+            }
+    
+        ]
+    },
+    {
+        "id": 3,
+        "name" : "Zupy",
+        "icon" : "url(img/icon_3.png)",
+        "background" : "url(img/menu_bg_3.jpg)",
+        "value": [
+            {
+                "description" : "Żurek staropolski",
+                "price" : "9.00"
+            },
+            {
+                "description" : "Tradycyjny rosół z makaronem",
+                "price" : "6.00"
+            },
+            {
+                "description" : "Barszczyk czerwony z krokietem",
+                "price" : "10.00"
+            },
+            {
+                "description" : "Krem z pieczonych pomidorów i papryki",
+                "price" : "10.00"
+            },
+            {
+                "description" : "Gulaszowa z świeżym pieczywem",
+                "price" : "9.00"
+            },
+            {
+                "description" : "Zupa dnia (od poniedziałku do piątku)",
+                "price" : "5.00"
+            }
+    
+        ]
+    },
+    {
+        "id": 4,
+        "name" : "Sałatki",
+        "icon" : "url(img/icon_4.png)",
+        "background" : "url(img/menu_bg_4.jpg)",
+        "value": [
+            {
+                "description" : "Sałatka Cezar (mix sałat, grilowany kurczak, bekon i grzanki)",
+                "price" : "16.00"
+            },
+            {
+                "description" : "Sałatka grecka",
+                "price" : "12.00"
+            },
+            {
+                "description" : "Sałatka z wędzonym łososiem, jajkiem, pomidorem, oliwkami i sosem czosnkowym",
+                "price" : "19.00"
+            },
+            {
+                "description" : "Sałatka wiosenna (mix sałat, pomidor, ogórek, kurczak, cebula, słonecznik",
+                "price" : "17.00"
+            }
+    
+        ]
+    },
+    {
+        "id": 5,
+        "name" : "Pizza",
+        "icon" : "url(img/icon_5.png)",
+        "background" : "url(img/menu_bg_5.jpg)",
+        "value": [
+            {
+                "description" : "Ser, szynka, pieczarki, kukurydza",
+                "price" : "22.00"
+            },
+            {
+                "description" : "Ser, salami, peperoni, chili",
+                "price" : "22.00"
+            },
+            {
+                "description" : "Ser, pieczarki, papryka, kukurydza, cebula, oliwki",
+                "price" : "22.50"
+            },
+            {
+                "description" : "Ser, boczek, cebula, pieczarki, papryka",
+                "price" : "25.00"
+            },
+            {
+                "description" : "Ser, kurczak, pomidor, brokuł, czosnek",
+                "price" : "25.00"
+            },
+            {
+                "description" : "Ser, tuńczyk, pomidor, oliwki",
+                "price" : "24.00"
+            },
+            {
+                "description" : "Ser, majonez zapiekany, papryka, szynka, cebula, pieczarki",
+                "price" : "25.50"
+            },
+            {
+                "description" : "Ser, sos diabolo, papryka, peperoni, mięso wołowe, pieczarki",
+                "price" : "28.90"
+            },
+            {
+                "description" : "Ser, mięso wołowe, papryka peperoni, cebula, pieczarki",
+                "price" : "26.70"
+            },
+            {
+                "description" : "Ser, owoce morza, ananas, cebula, czosnek, pieczarki",
+                "price" : "27.90"
+            },
+            {
+                "description" : "Ser, sos chili, kurczak, pieczarki, czerwona cebula",
+                "price" : "25.90"
+            }
+
+        ]
+    },
+    {
+        "id": 6,
+        "name" : "Desery",
+        "icon" : "url(img/icon_6.png)",
+        "background" : "url(img/menu_bg_6.jpg)",
+        "value": [
+            {
+                "description" : "Szarlotka na ciepło z lodami i bitą śmietaną",
+                "price" : "10.00"
+            },
+            {
+                "description" : "Deser lodowy z sezonowymi owocami i bitą śmietaną",
+                "price" : "11.00"
+            },
+            {
+                "description" : "Tiramisu z owocami",
+                "price" : "11.50"
+            },
+            {
+                "description" : "Babeczka z ciasta kruchego z kremem budyniowym, owoce, polewa czekoladowa",
+                "price" : "8.00"
+            }
+    
+        ]
+    }
+]
