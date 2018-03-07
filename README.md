@@ -10,3 +10,5 @@ Nad grafiką do strony pracowałam dość długo. Powstało wiele wersji, zanim 
 
 W projekcie użyłam zdjęć z darmowych stock'ów.
 Zdjęcia z galerii oraz logo zapożyczone ze strony restauracji, wyłącznie na potrzeby projektu.
+
+https://yashe.github.io/Webakademia---Projekt/
